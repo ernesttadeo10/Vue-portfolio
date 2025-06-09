@@ -27,8 +27,8 @@ This is a simple, responsive portfolio web application built using **Vue.js**. I
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+git clone https://github.com/ernesttadeo10/Vue-portfolio.git
+cd Vue-portfolio
 =======
 # Vue-portfolio
 >>>>>>> d779f5048819f839ef3ae2d448a01624b04d06f8
