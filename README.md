@@ -19,10 +19,6 @@ This is a simple, responsive portfolio web application built using **Vue.js**. I
 - Mobirise (used during internship)
 - GitHub & Trello (for collaboration & task tracking)
 
-## Screenshots
-
-> Include screenshots of each page in a `/screenshots/` folder and reference them here.
-
 ##  How to Run Locally
 
 1. **Clone the repository**
